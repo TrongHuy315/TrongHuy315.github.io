@@ -11,6 +11,8 @@ author:
 summary: Luyện cú pháp markdown trước khi viết blog
 ---
 
+*Để chuẩn bị nội dung các bài post thật là chỉn chu, sạch đẹp trong tương lai thì bài post này là một kiến thức hữu ích để chuẩn bị hành trang sắp tới. Dự định xa hơn là tham gia các cuộc thi, luận án tốt nghiệp hoặc CV công việc, ...*  
+
 1. Cú pháp Markdown cơ bản
 
 Sử dụng # ở đầu dòng để viết tiêu đề:
