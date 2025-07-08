@@ -3,7 +3,7 @@ layout: post
 title: Tổng quan về cơ sở dữ liệu
 date: 2025-06-29 12:11:32 +0700
 categories:
-    - module_1
+    - module 1
 tags:
     - Database
     - SQL
@@ -63,7 +63,7 @@ Cơ sở dữ liệu (CSDL) và các hệ thống cơ sở dữ liệu đã và 
         + Lược đồ vật lý (lược đồ trong): mô tả cấu trúc lưu trữ vật lý dữ liệu.  
         + Lược đồ ngoài (lược đồ ngoài): mô tả một phần CSDL mà người dùng quan tâm và che giấu phần còn lại
     được mô tả trong hình dưới đây  
-    ![Minh họa kiến trúc ba lược đồ](/assets/img/module_1/kien-truc-3-luoc-do.jpg)
+    ![Minh họa kiến trúc ba lược đồ](/assets/img/module_1/2025-06-29/kien-truc-3-luoc-do.jpg)
 
 4. **Mô hình dữ liệu**  
     Mô hình dữ liệu là một tập các khái niệm dùng để mô tả cấu trúc của CSDL, cũng như các ràng buộc trên CSDL đó.  
@@ -75,11 +75,11 @@ Cơ sở dữ liệu (CSDL) và các hệ thống cơ sở dữ liệu đã và 
     [^2]: Information Resource Dictionary System
 
     Ứng dụng CSDL được mô tả trong hình dưới đây.  
-    ![Mô hình thực thể - kết hợp](/assets/img/module_1/mo-hinh-tt-kh.jpg)  
+    ![Mô hình thực thể - kết hợp](/assets/img/module_1/2025-06-29/mo-hinh-tt-kh.jpg)  
 
     **b. Mô hình quan hệ**  
     Mô hình quan hệ được đề xuất bởi **E.F.Codd** vào năm 1970. Các hệ quản trị CSDL được đưa ra vào những năm 1980.  
     Ứng dụng CSDL được mô tả trong hình dưới đây.  
-    ![Mô hình quan hệ](/assets/img/module_1/mo-hinh-quan-he.jpg)  
+    ![Mô hình quan hệ](/assets/img/module_1/2025-06-29/mo-hinh-quan-he.jpg)  
 
     Ngoài ra, còn có các mô hình dữ liệu khác như: mô hình hướng đối tượng, mô hình mạng, mô hình phân cấp, ...

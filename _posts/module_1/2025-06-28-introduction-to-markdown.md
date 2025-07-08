@@ -3,7 +3,7 @@ layout: post
 title: "Làm quen với Markdown"
 date: 2025-06-28 22:03:00 +0700
 categories:
-    - module_1
+    - module 1
 tags:
     - introduction
     - markdown
