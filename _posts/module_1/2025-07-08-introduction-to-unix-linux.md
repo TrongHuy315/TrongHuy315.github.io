@@ -5,10 +5,11 @@ date: 2025-07-08 11:05:23 +0700
 categories:
     - module 1
 tags:
-    - Unix
-    - Linux
-    - Command Line
-    - Shell
+    - introduction
+    - unix
+    - linux
+    - command Line
+    - shell
 author:
 summary: Thực hành với command line trong khoa học dữ liệu
 ---

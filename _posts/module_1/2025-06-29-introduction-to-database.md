@@ -5,9 +5,10 @@ date: 2025-06-29 12:11:32 +0700
 categories:
     - module 1
 tags:
-    - Database
-    - SQL
-    - NoSQL
+    - introduction
+    - database
+    - sql
+    - nosql
 author:
 summary: Tóm lược chung về các khái niệm trong cơ sở dữ liệu
 ---
